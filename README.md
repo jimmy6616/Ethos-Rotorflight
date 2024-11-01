@@ -6,5 +6,5 @@ This guide will assist in the setup of a Frsky Ethos based TX allowing you to ad
 
 ## Transmitter Setup
 Step1: You need to disable trims for Roll, Yaw and Pitch
-![image](Img/Trim1.jpg)
+![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Trim1.jpg)
 
