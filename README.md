@@ -7,7 +7,7 @@ __NOTE: The PID settings will not be fully saved to eeprom untill you disarm the
 ## Transmitter Setup
 Step1: You need to disable trims for Roll, Yaw and Pitch
 
-![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Trim1.jpg)
+![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/main/Mix1.jpg)
 
 ![imaage](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Trim2.jpg)
 
