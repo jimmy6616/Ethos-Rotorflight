@@ -19,3 +19,4 @@ Edit the VAR with the following values, these values will translate in the RF Ad
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Var2.jpg)
 
 Add a mixer for your chosen channel, in this example Ch 11 Called PID Enable with a source of 6POS
+![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Mix1.jpg)
