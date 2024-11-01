@@ -10,3 +10,9 @@ Step1: You need to disable trims for Roll, Yaw and Pitch
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Trim1.jpg)
 
 ![imaage](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Trim2.jpg)
+
+Step2: Setting up the 6-Pos switch to allow control of the Paramters.
+Add a VAR
+
+
+Add a mixer for your chosen channel, in this example Ch 11 Called PID Enable with a source of 6POS
