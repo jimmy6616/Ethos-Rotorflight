@@ -15,4 +15,7 @@ Step2: Setting up the 6-Pos switch to allow control of the Paramters.
 Add a VAR
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Var1.jpg)
 
+Edit the VAR with the following values, these values will translate in the RF Adjustments tab
+![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Var2.jpg)
+
 Add a mixer for your chosen channel, in this example Ch 11 Called PID Enable with a source of 6POS
