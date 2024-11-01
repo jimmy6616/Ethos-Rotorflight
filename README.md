@@ -21,5 +21,5 @@ Edit the VAR with the following values, these values will translate in the RF Ad
 Add a mixer for your chosen channel, in this example Ch 11 Called PID Enable with a source of the 6POS VAR. Also add 3 additional mixers for PID selection
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Mix1.jpg)
 
-Setup each mixer for the Trim switches, Trim RVU and RVD for Pitch adjust, Trim RHR and RHL for Roll adjust and Trim LHR and LHL for Yaw adjust
+Step3: Setup each mixer for the Trim switches, Trim RVU and RVD for Pitch adjust, Trim RHR and RHL for Roll adjust and Trim LHR and LHL for Yaw adjust
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Mix4.jpg)
