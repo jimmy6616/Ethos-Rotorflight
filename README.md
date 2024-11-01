@@ -22,4 +22,4 @@ Add a mixer for your chosen channel, in this example Ch 11 Called PID Enable wit
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Mix1.jpg)
 
 Step3: Setup each mixer for the Trim switches, Trim RVU and RVD for Pitch adjust, Trim RHR and RHL for Roll adjust and Trim LHR and LHL for Yaw adjust
-![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Mix4.jpg)
+![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/main/Mix4.jpg)
