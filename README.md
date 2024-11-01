@@ -18,5 +18,5 @@ Add a VAR
 Edit the VAR with the following values, these values will translate in the RF Adjustments tab to Select, FS1 is off, FS2 is 'P', FS3 is 'I', FS4 is 'D', FS5 is 'F' and FS6 is 'B'
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Var2.jpg)
 
-Add a mixer for your chosen channel, in this example Ch 11 Called PID Enable with a source of the 6POS VAR
+Add a mixer for your chosen channel, in this example Ch 11 Called PID Enable with a source of the 6POS VAR. Also add 3 additional mixers for PID selection
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/Img/Mix1.jpg)
