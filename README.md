@@ -13,12 +13,15 @@ Step1: You need to disable trims for Roll, Yaw and Pitch
 
 Step2: Setting up the 6-Pos switch to allow control of the Paramters.
 Add a VAR
+
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/main/Var1.jpg)
 
 Edit the VAR with the following values, these values will translate in the RF Adjustments tab to Select, FS1 is off, FS2 is 'P', FS3 is 'I', FS4 is 'D', FS5 is 'F' and FS6 is 'B'
+
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/main/Var2.jpg)
 
 Add a mixer for your chosen channel, in this example Ch 11 Called PID Enable with a source of the 6POS VAR. Also add 3 additional mixers for PID selection, in this example Ch12, 13 and 14.
+
 ![image](https://github.com/jimmy6616/Ethos-Rotorflight/blob/main/Mix1.jpg)
 
 Step3: Setup each mixer for the Trim switches, Trim RVU and RVD for Pitch adjust, Trim RHR and RHL for Roll adjust and Trim LHR and LHL for Yaw adjust
