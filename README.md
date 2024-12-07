@@ -1,3 +1,5 @@
+## These pages are working enviorements for the Rotorflight.org and may not be complete
+
 # Ethos-Rotorflight
 # Instructions to adjust PID's using a Frsky TX
 This guide will assist in the setup of a Frsky Ethos based TX allowing you to adjust Rotorflight PID's in real time without landing to adjust, care must be taken to ensure you are in full control of the Aircraft when adjusting parameters
